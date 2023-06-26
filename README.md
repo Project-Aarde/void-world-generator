@@ -17,4 +17,5 @@ worlds:
 Now the main world, the nether _and_ the end will be void worlds. If you don't want all of them to be, 
 just remove the ones you'd like to generate normally.
 
-Not tested with multiverse or anything else.
+Not tested with multiverse or anything else. There's no customization either.
+If anyone's willing, I'll accept pull requests for such.
