@@ -1,0 +1,8 @@
+name: VoidWorldGenerator
+version: '1.0-SNAPSHOT'
+main: dev.haedhutner.voidworldgenerator.VoidWorldGenerator
+api-version: '1.20'
+load: STARTUP
+authors: [HaedHutner]
+description: A Void World Generator
+website: https://haedhutner.dev
