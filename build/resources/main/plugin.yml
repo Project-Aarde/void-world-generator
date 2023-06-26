@@ -1,5 +1,5 @@
 name: VoidWorldGenerator
-version: '1.0-SNAPSHOT'
+version: '1.0.0'
 main: dev.haedhutner.voidworldgenerator.VoidWorldGenerator
 api-version: '1.20'
 load: STARTUP
